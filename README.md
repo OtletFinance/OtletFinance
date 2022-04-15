@@ -1,7 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="Otlet Finance workplace" src="workplace.gif" width="390" height="320" />
 
-- 👋 Hi, This @OtletFinance Official Github account
+<img align="right" alt="Otlet Finance workplace" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="390" height="320" />
+
+
+- 👋 Hi, This is @OtletFinance Official Github account
 - 👀 We are interested in serving financal services & humintarian aid projects.
 - 🌱 We are currently still growing as a community ...
 - 📫 Our Official site [Otlet Finance](https://otlet.finance/)
