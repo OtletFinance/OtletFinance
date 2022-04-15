@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, This is @OtletFinance Official Github account
-- 👀 We are interested in serving financal services & humintarian aid projects.
+- 👀 We are community based project interested in serving financal services.
 - 🌱 We are currently still growing as a community ...
 - 📫 Our Official site [Otlet Finance](https://otlet.finance/)
 
